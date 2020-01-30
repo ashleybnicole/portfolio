@@ -1,3 +1,9 @@
 .btn.btn-primary.btn-xl.js-scroll-trigger {
 }
 
+@media (min-width: 1200px) {
+  .portfolio-item {
+    height: 313px;
+  }
+}
+
